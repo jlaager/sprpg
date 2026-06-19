@@ -1,1 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f0e6;
+    color: #222;
+}
 
+h1 {
+    color: #4a2f12;
+}
+
+a {
+    color: #6a4a2a;
+}

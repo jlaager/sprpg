@@ -63,3 +63,11 @@ nav a.active {
     padding: 15px;
     line-height: 1.4;
 }
+
+.event-details {
+    background: #d9cfb4;
+    padding: 15px 20px;
+    margin: 20px 0 30px 0;
+    text-align: center;
+    line-height: 1.5;
+}

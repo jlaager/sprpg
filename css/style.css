@@ -64,10 +64,28 @@ nav a.active {
     line-height: 1.4;
 }
 
-.event-details {
-    background: #d9cfb4;
-    padding: 15px 20px;
-    margin: 20px 0 30px 0;
+.event-box {
+    margin: 20px 0 40px 0;
+}
+
+.event-header {
+    background: #4a2a0a;
+    color: white;
+    padding: 12px 15px;
+    
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.event-content {
     text-align: center;
-    line-height: 1.5;
+    padding: 20px;
+    line-height: 1.6;
+    font-size: 1.2em;
+}
+
+.event-date {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-top: 0;
 }

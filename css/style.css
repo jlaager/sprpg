@@ -11,6 +11,13 @@ h1 {
     color: #4a2f12;
 }
 
+h2 {
+    text-align: left;
+    margin-top: 40px;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
 a {
     color: #6a4a2a;
 }

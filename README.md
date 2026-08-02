@@ -1,2 +1,2 @@
 # sprpg
-Sun Prairie RPG Night Website
+Sun Prairie RPG Website

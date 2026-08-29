@@ -95,21 +95,8 @@ nav a.active {
 }
 
 
-
 /* =========================================================
-   SECTION HEADERS
-   ========================================================= */
-   
-.section-header {
-    background: #4a2a0a;
-    color: white;
-    padding: 12px 15px;
-    font-size: 1.5em;
-    font-weight: bold;
-}
-
-/* =========================================================
-   CONTACT LINKS
+   ABOUT US CONTACT LINKS
    ========================================================= */
 
 .contact-links {
@@ -142,34 +129,19 @@ nav a.active {
 
 
 /* =========================================================
-   EVENT INFORMATION
+   UPCOMING EVENT INFORMATION
    ========================================================= */
-
-.event-box {
-    margin: 20px 0 40px 0;
+   
+.event-content {
+	text-align: center;
+	font-size: 1.1em;
+	padding: 0 0 15px;
 }
 
 .event-header {
-    text-align: center;
+	font-size: 1.8em;
+	font-weight: bold;
 }
-
-.event-content {
-    text-align: center;
-    padding: 20px;
-    line-height: 1.6;
-    font-size: 1.2em;
-}
-
-.event-content p {
-    margin: 0 0 20px 0;
-}
-
-.event-date {
-    font-size: 1.5em;
-    font-weight: bold;
-    margin-top: 0;
-}
-
 
 /* =========================================================
    FOOTER
